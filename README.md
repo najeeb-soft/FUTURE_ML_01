@@ -32,3 +32,6 @@ Evaluation:** Measured performance using Mean Absolute Error (MAE).
 1. Clone the repository.
 2. Install dependencies: `pip install pandas scikit-learn matplotlib seaborn`.
 3. Run the script: `python Task1_Sales_Forecasting.py`.
+
+
+![Sales Forecast Plot](forecast_plot.png)
